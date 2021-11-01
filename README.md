@@ -18,7 +18,7 @@ __TUTORIAL DE COMO IMPORTAR O BANCO DE DADOS (painel.sql)  EM UM NOVO PAINEL__
 
 ```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/restaurar.sh)```
 
-Obs: A SENHA ADMIN SERA A MESMA SENHA DO PAINEL AMTERIOR !
+Obs: A SENHA ADMIN SERA A MESMA SENHA DO PAINEL ANTERIOR !
 
 #
 #
